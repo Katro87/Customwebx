@@ -1,0 +1,8 @@
+
+{
+  "name": "CustomWebX - Sufyan Rasheed Portfolio",
+  "description": "The official portfolio and AI-powered service platform for Sufyan Rasheed, featuring advanced UI/UX, project showcases, and a custom-integrated AI Assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
